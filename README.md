@@ -1,4 +1,4 @@
-<p align="center"><img src="schoollogo.png" /></p>
+<p align="center"><img src="images/schoollogo.png" /></p>
 
 <h1 align="center">Tech High Times</h1>
 <h3 align="center">The official STHS newspaper.</h3>
